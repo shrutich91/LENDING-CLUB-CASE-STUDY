@@ -13,8 +13,6 @@ The company wants to understand the driving factors (or driver variables) behind
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
 - General Information
 This project deals with doing exploratory data analysis and identify driving factors behind default.Identifying The variables which are strong indicators of default.  The company can utilize this knowledge for its portfolio and risk assessment. 
@@ -31,12 +29,17 @@ https://github.com/shrutich91/LENDING-CLUB-CASE-STUDY/blob/main/data_dictionary.
 
 ## Conclusions
 <!-- ToDO after ppt -->
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- 1. Loan Term: chance of charged off is double when term is 60 months
+- 2. Purpose is  small business, higher chance of charged off
+- 3. As grade increases (A to B to C and so on), higher chance of charged off . Within a grade as Subgrade increases (A1 to A5 ), higher chance of charged off. Chance of charged off is very high if subgrade is F5
+- 4. Interest rate -  As interest rate increases, % charged off increases
+- 5. Public record Bankruptcy is a driver and as this increases, chance of charged off increases
+- 6. Annual Income: As Income increases, charged off% decreases, specifically higher chance of charged off if Income less than 60 k
+- 7. Loan amount : Higher loan amount increases chance of charge off
+- 8. Emp title : when emp title is not present, they have higher chance of charged of
+ Analysis on multiple features
+- 9. If loan applicant falls in Grade G and lesser annual Income chance of charged off  is high
+- 10. When purpose is home improvement/major purpose/moving/small business and income is lower  then higher chance of charged of
 
 
 ## Technologies Used
@@ -55,9 +58,3 @@ Give credit here.
 ## Contact
 Created by [@Jeyashree/Shruti] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
