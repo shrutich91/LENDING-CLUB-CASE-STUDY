@@ -44,7 +44,7 @@ https://github.com/shrutich91/LENDING-CLUB-CASE-STUDY/blob/main/data_dictionary.
 - Numpy - 1.20.3 
 - Seaborn - 0.11.2
 - Matplotlib - 3.4.3
-- WordCloud - version
+- WordCloud - 1.8.1
 - Plotly - 5.7.0
 
 ## Acknowledgements
