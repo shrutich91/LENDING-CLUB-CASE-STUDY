@@ -40,12 +40,12 @@ https://github.com/shrutich91/LENDING-CLUB-CASE-STUDY/blob/main/data_dictionary.
 
 
 ## Technologies Used
-- Pandas - version 
-- Numpy - version 
-- Seaborn - version
-- Matplotlib - version
+- Pandas - 1.3.4 
+- Numpy - 1.20.3 
+- Seaborn - 0.11.2
+- Matplotlib - 3.4.3
 - WordCloud - version
-- Plotly - version
+- Plotly - 5.7.0
 
 ## Acknowledgements
 Give credit here.
