@@ -53,7 +53,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@Jeyashree/Shruthi] - feel free to contact me!
+Created by [@Jeyashree/Shruti] - feel free to contact me!
 
 
 <!-- Optional -->
